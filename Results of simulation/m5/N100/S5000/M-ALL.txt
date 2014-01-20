@@ -1,0 +1,6 @@
+# Statistics for m=5, N=100, S=5000, all M
+# k-definiteness count
+5 1
+93 93
+95 1
+100 962

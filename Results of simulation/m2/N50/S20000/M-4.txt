@@ -1,0 +1,10 @@
+# Statistics for m=2, N=50, S=20000, M=4
+# k-definiteness count
+1 59
+2 87
+3 94
+4 48
+5 23
+6 9
+7 4
+8 1
