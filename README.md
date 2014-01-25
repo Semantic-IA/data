@@ -2,7 +2,7 @@
 
 In the spirit of open data, we decided to publicize the raw data we used for our paper [insert final paper title here].
 
-It contains all relevant data from our research, including the database of patterns for our simulator, which can be found in a seperate repository [TODO Link].
+It contains all relevant data from our research, including the database of patterns for our simulator, which can be found in [this Repository](https://github.com/Semantic-IA/DRQPatternAttack).
 
 All data is licensed under the BSD 2-clause license. Feel free to use it for further research.
 
