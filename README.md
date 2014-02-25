@@ -1,6 +1,6 @@
 ## Data Repository
 
-In the spirit of open data, we decided to publicize the raw data we used for our paper [insert final paper title here].
+In the spirit of open data, we decided to publicize the raw data we used for our paper "Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing".
 
 It contains all relevant data from our research, including the database of patterns for our simulator, which can be found in [this Repository](https://github.com/Semantic-IA/DRQPatternAttack).
 
