@@ -9,3 +9,5 @@ pattern2.tld:pattern2.tld,pattern-element1.tld,pattern-element2.tld,...
 ```
 
 No warranty for completeness or correctness of patterns. This version of the dataset was collected in May, 2013.
+
+The file jaccard.txt contains the aggregated jaccard coefficients of the patterns.
